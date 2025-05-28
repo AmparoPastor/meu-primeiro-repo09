@@ -11,3 +11,9 @@ Repositório para praticar os básicos do Git e GitHub
 ### Amparo Pastor: Trilha QA, usuário-do-git: amparopastor.
 ### Silvia Cristina: Trilha Full-Stack, usuário-do-git: silviacristinaa.
 ### Maria Eduarda: Trilha Dados, usuário-do-git: dudatimiraos.
+
+
+## **Projetos**
+### projeto 1
+### projeto 2
+### projeto 3
